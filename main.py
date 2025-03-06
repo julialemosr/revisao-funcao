@@ -9,7 +9,7 @@
 
 
 
-from utils.math_utils import solicitar_numero,adicao,subtracao,multiplicacao,divisao, menu_calculadora
+# from utils.math_utils import solicitar_numero,adicao,subtracao,multiplicacao,divisao, menu_calculadora
 # temperatura_celsius = receber_temperatura()
 # temperatura_celsius = converter_temperatura(temperatura_celsius)
 #
